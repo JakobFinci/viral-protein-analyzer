@@ -9,4 +9,4 @@ helpers.py contains helper functions used by gene_finder.py
 
 gene_finder.py contains functions used to analyze viral genome for protein encoding ORFs
 
-proteinpaper.ipynb contains computational research paper on this project
+proteinpaper.ipynb contains computational research paper on this project **(START HERE)**
