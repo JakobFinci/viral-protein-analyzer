@@ -1,0 +1,3333 @@
+RID: 275PP546013	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_79733 Length: 419
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    588    588   85%   0.0    97.78  361        ULH32481.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    588    588   85%   0.0    99.44  360        QOQ20887.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    587    587   85%   0.0    99.72  361        UFA57928.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    587    587   85%   0.0    99.72  361        UGY84996.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    587    587   85%   0.0    99.72  361        ULH32380.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    577    577   85%   0.0    99.16  357        QQV40449.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    577    577   85%   0.0    91.39  361        ULH32888.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    576    576   85%   0.0    91.67  361        ULH32831.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    575    575   84%   0.0    99.15  354        UCZ01003.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    575    575   85%   0.0    95.00  361        UEC89309.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    574    574   84%   0.0    99.44  354        QZQ79250.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    574    574   84%   0.0    99.72  354        QZM82515.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    572    572   84%   0.0    99.72  353        QZM94810.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    567    567   84%   0.0    98.87  353        UBE60725.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    555    555   82%   0.0    99.42  345        UCN43197.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    553    553   82%   0.0    99.71  345        QWE64165.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    544    544   84%   0.0    89.58  355        QRO05525.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    534    534   79%   0.0    99.40  335        QTI92261.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    533    533   79%   0.0    99.40  334        QZH24298.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    520    520   78%   0.0    99.70  329        QWY53440.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    512    512   77%   4e-179 99.38  324        UDZ12878.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    511    511   77%   7e-179 100.00 324        UAQ58471.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    511    511   77%   1e-178 99.07  324        QYV97303.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    512    512   85%   2e-178 88.61  361        ULH36553.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    494    494   75%   3e-172 99.37  316        ULA16256.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    492    492   75%   3e-171 99.68  315        UEA11947.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    489    489   74%   3e-170 100.00 314        UFE09221.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    487    487   74%   3e-169 99.36  313        UJY91208.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    485    485   79%   3e-168 93.13  335        QPK72430.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    481    481   73%   5e-167 99.35  310        QXY43771.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    471    471   72%   3e-163 99.34  304        UIG40240.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    471    471   72%   5e-163 99.67  304        QXK88509.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    467    467   78%   3e-161 88.72  328        QXI81853.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    461    461   71%   2e-159 99.00  300        QVQ68924.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    445    445   70%   4e-153 98.98  294        UDZ15969.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    445    445   84%   4e-152 81.41  355        QOS46005.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    426    426   68%   1e-145 98.95  285        UJE34601.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    424    424   67%   8e-145 98.94  284        UAP90675.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    423    423   67%   1e-144 99.65  284        QZE92420.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    418    418   67%   8e-143 98.24  284        UEI32843.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    417    417   67%   4e-142 87.32  284        QZM70142.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    411    411   66%   4e-140 98.92  278        UIC68686.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    404    404   65%   2e-137 98.91  274        UAR14430.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    399    399   65%   3e-135 98.54  274        UFL57115.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    395    395   64%   8e-134 97.41  270        QXN16598.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    388    388   63%   3e-131 99.25  265        QQL14119.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    387    387   63%   1e-130 99.25  265        QXK89427.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    385    385   63%   5e-130 98.87  265        QXT13081.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    385    385   63%   5e-130 98.87  265        UAP98176.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    382    382   62%   6e-129 98.85  262        QVQ68878.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    378    378   62%   4e-127 98.85  261        UGD02923.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    376    376   62%   1e-126 98.85  260        UKG33670.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    376    376   62%   2e-126 98.85  260        UGY51894.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    374    374   61%   8e-126 98.46  259        UKG26967.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    373    373   61%   3e-125 99.22  257        QOQ24809.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    372    372   61%   9e-125 98.44  256        UAJ55544.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    371    371   61%   2e-124 98.83  256        QPK75116.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    371    371   61%   2e-124 99.22  256        UDP00922.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    371    371   61%   2e-124 99.22  256        UAJ55530.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    371    371   61%   2e-124 99.22  256        QOP96178.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   2e-124 99.61  256        UAJ55486.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   3e-124 100.00 256        UAJ55448.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   3e-124 99.22  256        UAJ55456.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   3e-124 98.83  257        UGN69651.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   4e-124 99.61  256        QSF12424.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   4e-124 99.61  256        UAJ55553.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   5e-124 99.61  256        UAJ55484.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   5e-124 99.61  256        UAJ55466.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    370    370   61%   6e-124 99.22  257        UGY40045.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   41%   8e-124 100.00 256        UAJ55510.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   41%   8e-124 100.00 256        UAJ55629.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   41%   8e-124 100.00 255        QVX21211.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   61%   9e-124 99.22  256        UAJ55619.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   41%   1e-123 100.00 256        UAJ55670.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   41%   1e-123 100.00 256        UAJ55478.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   41%   1e-123 100.00 256        UAJ55589.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    369    369   61%   1e-123 99.22  256        QRU94298.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   61%   2e-123 98.83  256        UAJ55498.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   41%   2e-123 99.43  256        UAJ55626.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   61%   2e-123 98.83  256        UDP01222.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   2e-123 100.00 237        QRX61481.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   61%   3e-123 99.22  256        UAJ55462.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   61%   3e-123 98.83  256        UBY11039.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   3e-123 100.00 237        QRW63475.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   61%   3e-123 98.44  256        UCL54268.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   3e-123 100.00 240        QVQ69017.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   3e-123 100.00 237        QRX47767.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   61%   3e-123 99.22  256        UCQ07516.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    368    368   61%   3e-123 99.22  256        UDP01091.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   3e-123 100.00 245        UHT82310.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   3e-123 100.00 237        QUA24421.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   61%   3e-123 99.61  256        QZC54608.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   4e-123 100.00 237        QRX54018.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   4e-123 100.00 236        UBE61646.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   4e-123 100.00 237        QTS20294.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   61%   4e-123 98.83  256        UAJ55504.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   4e-123 100.00 246        QRX18022.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   4e-123 100.00 241        UCI85607.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   61%   4e-123 98.83  256        UHO99246.1       
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome... Severe acute... NA              2697049    367    367   41%   5e-123 100.00 237        QRX33602.1       
+
+
+Alignments:
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULH32481.1 Length: 361
+Range 1: 1 to 360
+
+Score:588 bits(1517), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:352/360(98%), Positives:352/360(97%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALA        QLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALAXXXXXXXXQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ20887.1 Length: 360
+Range 1: 1 to 360
+
+Score:588 bits(1515), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:358/360(99%), Positives:359/360(99%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFA57928.1 Length: 361
+Range 1: 1 to 360
+
+Score:587 bits(1513), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:359/360(99%), Positives:360/360(100%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGS+RGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSNRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGY84996.1 Length: 361
+Range 1: 1 to 360
+
+Score:587 bits(1513), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:359/360(99%), Positives:359/360(99%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAAL LLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALXLLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULH32380.1 Length: 361
+Range 1: 1 to 360
+
+Score:587 bits(1513), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:359/360(99%), Positives:359/360(99%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGS RGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSIRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQV40449.1 Length: 357
+Range 1: 1 to 357
+
+Score:577 bits(1487), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:354/357(99%), Positives:354/357(99%), Gaps:0/357(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRG SPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGISPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKK  AEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKXXAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHI  357
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHI
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHI  357
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULH32888.1 Length: 361
+Range 1: 1 to 360
+
+Score:577 bits(1486), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:329/360(91%), Positives:329/360(91%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNST GSSRGTSPARMAGNGG                         
+Sbjct  181  QASSRSSSRSRNSSRNSTLGSSRGTSPARMAGNGGXXXXXXXXXXXXXXXXXXXXXXXXX  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+                 VTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  XXXXXVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULH32831.1 Length: 361
+Range 1: 1 to 360
+
+Score:576 bits(1484), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:330/360(92%), Positives:330/360(91%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGG                         
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGXXXXXXXXXXXXXXXXXXXXXXXXX  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+                 VTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  XXXXXVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCZ01003.1 Length: 354
+Range 1: 1 to 354
+
+Score:575 bits(1481), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:351/354(99%), Positives:352/354(99%), Gaps:0/354(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSP+RMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPSRMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  354
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  354
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEC89309.1 Length: 361
+Range 1: 1 to 360
+
+Score:575 bits(1481), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:342/360(95%), Positives:342/360(95%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNS RNSTPGSSRGTSPARMAG GGDAALA LLLDRLNQL          
+Sbjct  181  QASSRSSSRSRNSLRNSTPGSSRGTSPARMAGYGGDAALAFLLLDRLNQLXXXXXXXXXX  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+                 VTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  XXXXXVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZQ79250.1 Length: 354
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZR16106.1 Length: 354
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAQ93263.1 Length: 354
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAR85259.1 Length: 354
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBA84093.1 Length: 354 
+Range 1: 1 to 354
+
+Score:574 bits(1480), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:352/354(99%), Positives:352/354(99%), Gaps:0/354(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  354
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  354
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZM82515.1 Length: 354
+Range 1: 1 to 354
+
+Score:574 bits(1479), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:353/354(99%), Positives:353/354(99%), Gaps:0/354(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  354
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  354
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZM94810.1 Length: 353
+Range 1: 1 to 353
+
+Score:572 bits(1473), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:352/353(99%), Positives:352/353(99%), Gaps:0/353(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILL  353
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILL
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILL  353
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBE60725.1 Length: 353
+Range 1: 1 to 353
+
+Score:567 bits(1461), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:350/354(99%), Positives:351/354(99%), Gaps:1/354(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSP  MAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPG-MAGNGGDAALALLLLDRLNQLESKMSGKGQQ  239
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  240  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  299
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  354
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN
+Sbjct  300  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLN  353
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCN43197.1 Length: 345
+Range 1: 1 to 345
+
+Score:555 bits(1430), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:343/345(99%), Positives:343/345(99%), Gaps:0/345(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPN  345
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPN
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPN  345
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWE64165.1 Length: 345
+Range 1: 1 to 345
+
+Score:553 bits(1424), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:344/345(99%), Positives:345/345(100%), Gaps:0/345(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESK+SGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKISGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPN  345
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPN
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPN  345
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRO05525.1 Length: 355
+Range 1: 1 to 355
+
+Score:544 bits(1402), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:318/355(90%), Positives:318/355(89%), Gaps:0/355(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTP                           LNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPXXXXXXXXXXXXXXXXXXXXXXXXXXXLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNK  355
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDD          LLNK
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDXXXXXXXXXXLLNK  355
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTI92261.1 Length: 335
+Range 1: 1 to 335
+
+Score:534 bits(1376), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:333/335(99%), Positives:334/335(99%), Gaps:0/335(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTG  335
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTG
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTG  335
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZH24298.1 Length: 334
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZM49918.1 Length: 334
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBA35380.1 Length: 334
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDJ50842.1 Length: 334 
+Range 1: 1 to 334
+
+Score:533 bits(1372), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:332/334(99%), Positives:332/334(99%), Gaps:0/334(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYT  334
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYT
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYT  334
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWY53440.1 Length: 329
+Range 1: 1 to 329
+
+Score:520 bits(1338), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:328/329(99%), Positives:328/329(99%), Gaps:0/329(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNS RNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSLRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGT  329
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGT
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGT  329
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDZ12878.1 Length: 324
+Range 1: 1 to 324
+
+Score:512 bits(1319), Expect:4e-179, 
+Method:Compositional matrix adjust., 
+Identities:322/324(99%), Positives:322/324(99%), Gaps:0/324(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEV  324
+            WPQIAQFAPSASAFFGMSRIGMEV
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEV  324
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAQ58471.1 Length: 324
+Range 1: 1 to 324
+
+Score:511 bits(1317), Expect:7e-179, 
+Method:Compositional matrix adjust., 
+Identities:324/324(100%), Positives:324/324(100%), Gaps:0/324(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEV  324
+            WPQIAQFAPSASAFFGMSRIGMEV
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEV  324
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYV97303.1 Length: 324
+Range 1: 1 to 324
+
+Score:511 bits(1315), Expect:1e-178, 
+Method:Compositional matrix adjust., 
+Identities:321/324(99%), Positives:322/324(99%), Gaps:0/324(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNP+NNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPSNNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEV  324
+            WPQIAQFAPSASAFFGMSRIGMEV
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEV  324
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULH36553.1 Length: 361
+Range 1: 1 to 360
+
+Score:512 bits(1318), Expect:2e-178, 
+Method:Compositional matrix adjust., 
+Identities:319/360(89%), Positives:319/360(88%), Gaps:0/360(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAG    AALALLLL       SKM GKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGXXXXAALALLLLXXXXXXXSKMFGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASK    KRTATKAY                         QGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKXXXXKRTATKAYXXXXXXXXXXXXXXXXXXXXXXXXXQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNKHIDAY  360
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULA16256.1 Length: 316
+Range 1: 1 to 316
+
+Score:494 bits(1273), Expect:3e-172, 
+Method:Compositional matrix adjust., 
+Identities:314/316(99%), Positives:315/316(99%), Gaps:0/316(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFG  316
+            WPQIAQFAPSASAFFG
+Sbjct  301  WPQIAQFAPSASAFFG  316
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEA11947.1 Length: 315
+Range 1: 1 to 315
+
+Score:492 bits(1266), Expect:3e-171, 
+Method:Compositional matrix adjust., 
+Identities:314/315(99%), Positives:314/315(99%), Gaps:0/315(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNS RNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSLRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFF  315
+            WPQIAQFAPSASAFF
+Sbjct  301  WPQIAQFAPSASAFF  315
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFE09221.1 Length: 314
+Range 1: 1 to 314
+
+Score:489 bits(1259), Expect:3e-170, 
+Method:Compositional matrix adjust., 
+Identities:314/314(100%), Positives:314/314(100%), Gaps:0/314(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAF  314
+            WPQIAQFAPSASAF
+Sbjct  301  WPQIAQFAPSASAF  314
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UJY91208.1 Length: 313
+Range 1: 1 to 313
+
+Score:487 bits(1253), Expect:3e-169, 
+Method:Compositional matrix adjust., 
+Identities:311/313(99%), Positives:312/313(99%), Gaps:0/313(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASA  313
+            WPQIAQFAPSASA
+Sbjct  301  WPQIAQFAPSASA  313
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QPK72430.1 Length: 335
+Range 1: 1 to 335
+
+Score:485 bits(1248), Expect:3e-168, 
+Method:Compositional matrix adjust., 
+Identities:312/335(93%), Positives:313/335(93%), Gaps:0/335(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQK                     QGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKXXXXXXXXXXXXXXXXXXXXXQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTG  335
+            WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTG
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTG  335
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXY43771.1 Length: 310
+Range 1: 1 to 310
+
+Score:481 bits(1238), Expect:5e-167, 
+Method:Compositional matrix adjust., 
+Identities:308/310(99%), Positives:309/310(99%), Gaps:0/310(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNST GSSRGTSPARMAGNGGDAALALLLLDRLNQLESK+SGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTLGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKISGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPS  310
+            WPQIAQFAPS
+Sbjct  301  WPQIAQFAPS  310
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UIG40240.1 Length: 304
+Range 1: 1 to 304
+
+Score:471 bits(1212), Expect:3e-163, 
+Method:Compositional matrix adjust., 
+Identities:302/304(99%), Positives:302/304(99%), Gaps:0/304(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQI  304
+            WPQI
+Sbjct  301  WPQI  304
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXK88509.1 Length: 304
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYV92505.1 Length: 304 
+Range 1: 1 to 304
+
+Score:471 bits(1211), Expect:5e-163, 
+Method:Compositional matrix adjust., 
+Identities:303/304(99%), Positives:303/304(99%), Gaps:0/304(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQI  304
+            WPQI
+Sbjct  301  WPQI  304
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXI81853.1 Length: 328
+Range 1: 1 to 328
+
+Score:467 bits(1202), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:291/328(89%), Positives:291/328(88%), Gaps:0/328(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRS NSSRNSTPG           GNGGDAALALLLLDRLNQLESKMSGKG Q
+Sbjct  181  QASSRSSSRSXNSSRNSTPGXXXXXXXXXXXGNGGDAALALLLLDRLNQLESKMSGKGXQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+              GQTVT                      VTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  XXGQTVTXXXXXXXXXXXXXXXXXXXXXXVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSG  328
+            WPQIAQFAPSASAFFGMSRIGMEVTPSG
+Sbjct  301  WPQIAQFAPSASAFFGMSRIGMEVTPSG  328
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVQ68924.1 Length: 300
+Range 1: 1 to 300
+
+Score:461 bits(1186), Expect:2e-159, 
+Method:Compositional matrix adjust., 
+Identities:297/300(99%), Positives:298/300(99%), Gaps:0/300(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMA NGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAVNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDZ15969.1 Length: 294
+Range 1: 1 to 294
+
+Score:445 bits(1145), Expect:4e-153, 
+Method:Compositional matrix adjust., 
+Identities:291/294(99%), Positives:291/294(98%), Gaps:0/294(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KESLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQ  294
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQ
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQ  294
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOS46005.1 Length: 355
+Range 1: 1 to 355
+
+Score:445 bits(1144), Expect:4e-152, 
+Method:Compositional matrix adjust., 
+Identities:289/355(81%), Positives:289/355(81%), Gaps:0/355(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALA  LLD               
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALAXXLLDXXXXXXXXXXXXXXX  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGNFGDQELIRQGTDYKH  300
+            QQGQTVTKKSAAEASK                 FGRRGPEQTQGNFGDQEL         
+Sbjct  241  QQGQTVTKKSAAEASKXXXXXXXXXXXXXXXXXFGRRGPEQTQGNFGDQELXXXXXXXXX  300
+
+Query  301  WPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYTGAIKLDDKDPNFKDQVILLNK  355
+                    PSASAFFGMSRIGMEVTP               KDPNFKDQVILLNK
+Sbjct  301  XXXXXXXXPSASAFFGMSRIGMEVTPXXXXXXXXXXXXXXXKDPNFKDQVILLNK  355
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UJE34601.1 Length: 285
+Range 1: 1 to 285
+
+Score:426 bits(1094), Expect:1e-145, 
+Method:Compositional matrix adjust., 
+Identities:282/285(99%), Positives:282/285(98%), Gaps:0/285(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGN  285
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGN
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQGN  285
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAP90675.1 Length: 284
+Range 1: 1 to 284
+
+Score:424 bits(1089), Expect:8e-145, 
+Method:Compositional matrix adjust., 
+Identities:281/284(99%), Positives:281/284(98%), Gaps:0/284(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG  284
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG  284
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZE92420.1 Length: 284
+Range 1: 1 to 284
+
+Score:423 bits(1087), Expect:1e-144, 
+Method:Compositional matrix adjust., 
+Identities:283/284(99%), Positives:283/284(99%), Gaps:0/284(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG  284
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG  284
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEI32843.1 Length: 284
+Range 1: 1 to 284
+
+Score:418 bits(1075), Expect:8e-143, 
+Method:Compositional matrix adjust., 
+Identities:279/284(98%), Positives:279/284(98%), Gaps:0/284(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG  284
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAF  RGPEQTQG
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFXXRGPEQTQG  284
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZM70142.1 Length: 284
+Range 1: 1 to 284
+
+Score:417 bits(1071), Expect:4e-142, 
+Method:Compositional matrix adjust., 
+Identities:248/284(87%), Positives:248/284(87%), Gaps:0/284(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSS                                   LESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG  284
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRGPEQTQG  284
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UIC68686.1 Length: 278
+Range 1: 1 to 278
+
+Score:411 bits(1057), Expect:4e-140, 
+Method:Compositional matrix adjust., 
+Identities:275/278(99%), Positives:275/278(98%), Gaps:0/278(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAFGRRG  278
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRG
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGRRG  278
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAR14430.1 Length: 274
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBL29302.1 Length: 274
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEI48292.1 Length: 274 
+Range 1: 1 to 274
+
+Score:404 bits(1038), Expect:2e-137, 
+Method:Compositional matrix adjust., 
+Identities:271/274(99%), Positives:271/274(98%), Gaps:0/274(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAF  274
+            QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAF
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAF  274
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFL57115.1 Length: 274
+Range 1: 1 to 274
+
+Score:399 bits(1024), Expect:3e-135, 
+Method:Compositional matrix adjust., 
+Identities:270/274(99%), Positives:270/274(98%), Gaps:0/274(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNVTQAF  274
+            QQGQTVTKKSAAEASKKPRQKRTATKAY  TQAF
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTATKAYXXTQAF  274
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXN16598.1 Length: 270
+Range 1: 1 to 270
+
+Score:395 bits(1015), Expect:8e-134, 
+Method:Compositional matrix adjust., 
+Identities:263/270(97%), Positives:263/270(97%), Gaps:0/270(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTATKAYNV  270
+            QQG    KKSAAEASKKPRQKRTATKAYNV
+Sbjct  241  QQGXXXXKKSAAEASKKPRQKRTATKAYNV  270
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQL14119.1 Length: 265
+Range 1: 1 to 265
+
+Score:388 bits(997), Expect:3e-131, 
+Method:Compositional matrix adjust., 
+Identities:263/265(99%), Positives:264/265(99%), Gaps:0/265(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTAT  265
+            QQGQTVTKKSAAEASKKPRQKRTAT
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTAT  265
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXK89427.1 Length: 265
+Range 1: 1 to 265
+
+Score:387 bits(993), Expect:1e-130, 
+Method:Compositional matrix adjust., 
+Identities:263/265(99%), Positives:263/265(99%), Gaps:0/265(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNS RNSTPGSSRGTSPARMAG GGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSLRNSTPGSSRGTSPARMAGYGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTAT  265
+            QQGQTVTKKSAAEASKKPRQKRTAT
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTAT  265
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXT13081.1 Length: 265
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZM76516.1 Length: 265 
+Range 1: 1 to 265
+
+Score:385 bits(990), Expect:5e-130, 
+Method:Compositional matrix adjust., 
+Identities:262/265(99%), Positives:262/265(98%), Gaps:0/265(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTAT  265
+            QQGQTVTKKSAAEASKKPRQKRTAT
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTAT  265
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAP98176.1 Length: 265
+Range 1: 1 to 265
+
+Score:385 bits(989), Expect:5e-130, 
+Method:Compositional matrix adjust., 
+Identities:262/265(99%), Positives:262/265(98%), Gaps:0/265(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSIGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKRTAT  265
+            QQGQTVTKKSAAEASKKPRQKRTAT
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKRTAT  265
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVQ68878.1 Length: 262
+Range 1: 1 to 262
+
+Score:382 bits(982), Expect:6e-129, 
+Method:Compositional matrix adjust., 
+Identities:259/262(99%), Positives:260/262(99%), Gaps:0/262(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMA NGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAVNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQKR  262
+            QQGQTVTKKSAAEASKKPRQKR
+Sbjct  241  QQGQTVTKKSAAEASKKPRQKR  262
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGD02923.1 Length: 261
+Range 1: 1 to 261
+
+Score:378 bits(970), Expect:4e-127, 
+Method:Compositional matrix adjust., 
+Identities:258/261(99%), Positives:258/261(98%), Gaps:0/261(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQK  261
+            QQGQTVTKKSAAEASKKPRQK
+Sbjct  241  QQGQTVTKKSAAEASKKPRQK  261
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UKG33670.1 Length: 260
+Range 1: 1 to 260
+
+Score:376 bits(966), Expect:1e-126, 
+Method:Compositional matrix adjust., 
+Identities:257/260(99%), Positives:257/260(98%), Gaps:0/260(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KESLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQ  260
+            QQGQTVTKKSAAEASKKPRQ
+Sbjct  241  QQGQTVTKKSAAEASKKPRQ  260
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGY51894.1 Length: 260
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UKD43328.1 Length: 260 
+Range 1: 1 to 260
+
+Score:376 bits(965), Expect:2e-126, 
+Method:Compositional matrix adjust., 
+Identities:257/260(99%), Positives:257/260(98%), Gaps:0/260(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPRQ  260
+            QQGQTVTKKSAAEASKKPRQ
+Sbjct  241  QQGQTVTKKSAAEASKKPRQ  260
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UKG26967.1 Length: 259
+Range 1: 1 to 259
+
+Score:374 bits(961), Expect:8e-126, 
+Method:Compositional matrix adjust., 
+Identities:255/259(98%), Positives:255/259(98%), Gaps:0/259(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLN LESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNHLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKKPR  259
+            QQGQTVTKKSAAEASKKPR
+Sbjct  241  QQGQTVTKKSAAEASKKPR  259
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ24809.1 Length: 257
+Range 1: 1 to 257
+
+Score:373 bits(957), Expect:3e-125, 
+Method:Compositional matrix adjust., 
+Identities:255/257(99%), Positives:256/257(99%), Gaps:0/257(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKK  257
+            QQGQTVTKKSAAEASKK
+Sbjct  241  QQGQTVTKKSAAEASKK  257
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55544.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55546.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55548.1 Length: 256 
+Range 1: 1 to 256
+
+Score:372 bits(954), Expect:9e-125, 
+Method:Compositional matrix adjust., 
+Identities:252/256(98%), Positives:253/256(98%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSR GS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRSGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLN LESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNHLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QPK75116.1 Length: 256
+Range 1: 1 to 256
+
+Score:371 bits(952), Expect:2e-124, 
+Method:Compositional matrix adjust., 
+Identities:253/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLD LNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDXLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDP00922.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDP01189.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDP01196.1 Length: 256 
+Range 1: 1 to 256
+
+Score:371 bits(952), Expect:2e-124, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55530.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55532.1 Length: 256 
+Range 1: 1 to 256
+
+Score:371 bits(952), Expect:2e-124, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAAL LLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALVLLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQ QTVTKKSAAEASK
+Sbjct  241  QQCQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOP96178.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55472.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55476.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55492.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55494.1 Length: 256 
+Range 1: 1 to 256
+
+Score:371 bits(952), Expect:2e-124, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:255/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55486.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55488.1 Length: 256 
+Range 1: 1 to 256
+
+Score:370 bits(951), Expect:2e-124, 
+Method:Compositional matrix adjust., 
+Identities:255/256(99%), Positives:255/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55448.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55450.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55452.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55454.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55458.1 Length: 256 
+Range 1: 1 to 256
+
+Score:370 bits(950), Expect:3e-124, 
+Method:Compositional matrix adjust., 
+Identities:256/256(100%), Positives:256/256(100%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55456.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55490.1 Length: 256 
+Range 1: 1 to 256
+
+Score:370 bits(950), Expect:3e-124, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNS RNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGK QQ
+Sbjct  181  QASSRSSSRSRNSLRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKCQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGN69651.1 Length: 257
+Range 1: 1 to 257
+
+Score:370 bits(950), Expect:3e-124, 
+Method:Compositional matrix adjust., 
+Identities:254/257(99%), Positives:254/257(98%), Gaps:0/257(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKK  257
+            QQGQTVTKKSAAEASKK
+Sbjct  241  QQGQTVTKKSAAEASKK  257
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSF12424.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFA57975.1 Length: 256 
+Range 1: 1 to 256
+
+Score:370 bits(950), Expect:4e-124, 
+Method:Compositional matrix adjust., 
+Identities:255/256(99%), Positives:255/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRG SPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGISPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55553.1 Length: 256
+Range 1: 1 to 256
+
+Score:370 bits(949), Expect:4e-124, 
+Method:Compositional matrix adjust., 
+Identities:255/256(99%), Positives:256/256(100%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGS+RGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSNRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55484.1 Length: 256
+Range 1: 1 to 256
+
+Score:370 bits(949), Expect:5e-124, 
+Method:Compositional matrix adjust., 
+Identities:255/256(99%), Positives:255/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSR RNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRIRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55466.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55480.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55508.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55514.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55516.1 Length: 256 
+Range 1: 1 to 256
+
+Score:370 bits(949), Expect:5e-124, 
+Method:Compositional matrix adjust., 
+Identities:255/256(99%), Positives:255/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNS RNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSLRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGY40045.1 Length: 257
+Range 1: 1 to 257
+
+Score:370 bits(949), Expect:6e-124, 
+Method:Compositional matrix adjust., 
+Identities:255/257(99%), Positives:255/257(99%), Gaps:0/257(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASKK  257
+            QQGQTVTKKSAAEASKK
+Sbjct  241  QQGQTVTKKSAAEASKK  257
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55510.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55512.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55534.1 Length: 256 
+Range 1: 1 to 174
+
+Score:369 bits(948), Expect:8e-124, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55629.1 Length: 256
+Range 1: 1 to 174
+
+Score:369 bits(948), Expect:8e-124, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVX21211.1 Length: 255
+Range 1: 1 to 174
+
+Score:369 bits(947), Expect:8e-124, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55619.1 Length: 256
+Range 1: 1 to 256
+
+Score:369 bits(947), Expect:9e-124, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVA EGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVAIEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTS ARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSLARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55670.1 Length: 256
+Range 1: 1 to 174
+
+Score:369 bits(947), Expect:1e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55478.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55522.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55524.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55526.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55528.1 Length: 256 
+Range 1: 1 to 174
+
+Score:369 bits(947), Expect:1e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55589.1 Length: 256
+Range 1: 1 to 174
+
+Score:369 bits(947), Expect:1e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRU94298.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55538.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55587.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55593.1 Length: 256 
+Range 1: 1 to 256
+
+Score:369 bits(946), Expect:1e-123, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKF RGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFSRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNST GSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTLGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55498.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55500.1 Length: 256 
+Range 1: 1 to 256
+
+Score:368 bits(945), Expect:2e-123, 
+Method:Compositional matrix adjust., 
+Identities:253/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            L YGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LSYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55626.1 Length: 256
+Range 1: 1 to 174
+
+Score:368 bits(945), Expect:2e-123, 
+Method:Compositional matrix adjust., 
+Identities:173/174(99%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPE+G
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPESG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDP01222.1 Length: 256
+Range 1: 1 to 256
+
+Score:368 bits(945), Expect:2e-123, 
+Method:Compositional matrix adjust., 
+Identities:253/256(99%), Positives:253/256(98%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEXLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX61481.1 Length: 237
+Range 1: 1 to 174
+
+Score:367 bits(942), Expect:2e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55462.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55470.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55474.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55482.1 Length: 256 
+Range 1: 1 to 256
+
+Score:368 bits(944), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGA NTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGAFNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNS RNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSLRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY11039.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCL54721.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCN20905.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCQ09579.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDF75014.1 Length: 256 
+Range 1: 1 to 256
+
+Score:368 bits(944), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:253/256(99%), Positives:253/256(98%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRW63475.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRW68914.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX19688.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSO02643.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV85184.1 Length: 237 
+Range 1: 1 to 174
+
+Score:367 bits(942), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCL54268.1 Length: 256
+Range 1: 1 to 256
+
+Score:368 bits(944), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:252/256(98%), Positives:253/256(98%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QA+SRSSSRSRNSSRNSTPGSS GTSPARMAGNG DAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QATSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGCDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVQ69017.1 Length: 240
+Range 1: 1 to 174
+
+Score:367 bits(942), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX47767.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV85903.1 Length: 237 
+Range 1: 1 to 174
+
+Score:367 bits(942), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCQ07516.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UIT92032.1 Length: 256 
+Range 1: 1 to 256
+
+Score:368 bits(944), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEGLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDP01091.1 Length: 256
+Range 1: 1 to 256
+
+Score:368 bits(944), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:254/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KE LKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEXLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS GTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSMGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHT82310.1 Length: 245
+Range 1: 1 to 174
+
+Score:367 bits(942), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA24421.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA32461.1 Length: 237 
+Range 1: 1 to 174
+
+Score:367 bits(941), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZC54608.1 Length: 256
+Range 1: 1 to 256
+
+Score:367 bits(943), Expect:3e-123, 
+Method:Compositional matrix adjust., 
+Identities:255/256(99%), Positives:255/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNT KDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTXKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX54018.1 Length: 237
+Range 1: 1 to 174
+
+Score:367 bits(941), Expect:4e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBE61646.1 Length: 236
+Range 1: 1 to 174
+
+Score:367 bits(941), Expect:4e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS20294.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA24502.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA28006.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUO71056.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUO75504.1 Length: 237 
+Range 1: 1 to 174
+
+Score:367 bits(941), Expect:4e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55504.1 Length: 256
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ55506.1 Length: 256 
+Range 1: 1 to 256
+
+Score:367 bits(943), Expect:4e-123, 
+Method:Compositional matrix adjust., 
+Identities:253/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRN ANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNLANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX18022.1 Length: 246
+Range 1: 1 to 174
+
+Score:367 bits(942), Expect:4e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCI85607.1 Length: 241
+Range 1: 1 to 174
+
+Score:367 bits(941), Expect:4e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHO99246.1 Length: 256
+Range 1: 1 to 256
+
+Score:367 bits(943), Expect:4e-123, 
+Method:Compositional matrix adjust., 
+Identities:253/256(99%), Positives:254/256(99%), Gaps:0/256(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSS DDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSRDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEgsrggs  180
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAEGSRGGS  180
+
+Query  181  qassrsssrsrnssrnstpgssrgtspaRMagnggdaalalllldrlnqlESKMSgkgqq  240
+            QASSRSSSRSRNSSRNSTPGSS+ TSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ
+Sbjct  181  QASSRSSSRSRNSSRNSTPGSSKRTSPARMAGNGGDAALALLLLDRLNQLESKMSGKGQQ  240
+
+Query  241  qqgqtvtkkSAAEASK  256
+            QQGQTVTKKSAAEASK
+Sbjct  241  QQGQTVTKKSAAEASK  256
+
+
+
+
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX33602.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX47788.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV83078.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV83190.1 Length: 237
+>nucleocapsid phosphoprotein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC95859.1 Length: 237 
+Range 1: 1 to 174
+
+Score:367 bits(941), Expect:5e-123, 
+Method:Compositional matrix adjust., 
+Identities:174/174(100%), Positives:174/174(100%), Gaps:0/174(0%)
+
+Query  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+            MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG
+Sbjct  1    MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQGLPNNTASWFTALTQHG  60
+
+Query  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+            KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG
+Sbjct  61   KEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMKDLSPRWYFYYLGTGPEAG  120
+
+Query  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+            LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE
+Sbjct  121  LPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQLPQGTTLPKGFYAE  174
+
+
+
+
+
+
+
+		
+
+

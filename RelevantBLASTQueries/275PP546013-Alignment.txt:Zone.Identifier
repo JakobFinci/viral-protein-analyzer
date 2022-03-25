@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://blast.ncbi.nlm.nih.gov/Blast.cgi
+HostUrl=https://blast.ncbi.nlm.nih.gov/Blast.cgi?RESULTS_FILE=on&RID=275PP546013&FORMAT_TYPE=Text&FORMAT_OBJECT=Alignment&DESCRIPTIONS=100&ALIGNMENTS=100&CMD=Get&DOWNLOAD_TEMPL=Results_All&ADV_VIEW=on

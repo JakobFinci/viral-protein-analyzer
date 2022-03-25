@@ -1,0 +1,2367 @@
+RID: 275CBZ3N016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_96629 Length: 75
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    100    100   100%  1e-25 97.33  75         UBN78350.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         UDO31082.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         UCQ70288.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QVG72534.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         UEH33695.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 97.33  75         UFA79862.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         UEW09737.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         UAM71583.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QXM01537.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QWT73415.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QRV13298.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QSN98994.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 97.33  75         UBD44847.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 97.33  75         UBF40625.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 100.00 75         YP_009724392.1   
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 97.33  75         UBE72040.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QXD38720.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QUD56218.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QSN85403.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QUE12501.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.8   99.8  100%  2e-25 98.67  75         QTS38927.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         QUX37696.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         QWX21533.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         UAG57581.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         UCB79167.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         QTI97232.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         QVD65749.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         QVJ16632.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 97.33  75         QRV13297.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 97.33  75         QXX36024.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 97.33  75         QYP78764.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 97.33  75         UBF75342.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         UHO77330.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         UFK01962.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         UGK66263.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         QUI87154.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         QXP15535.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  2e-25 98.67  75         ULH76018.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         QZB53116.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         UIT30652.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         UGZ64556.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         UBK17114.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         UCR04066.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         QTS16535.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 96.00  75         UGW44899.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         QWU05278.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         UDO79162.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         QZC51652.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         QVY59608.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 96.00  75         UEH85087.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         UGO29564.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         UAK13810.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         QWT38337.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 98.67  75         QZC49052.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.4   99.4  100%  3e-25 97.33  75         UBO39473.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 98.67  75         QZW21381.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 97.33  75         QYC02439.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 98.67  75         QTS79416.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 98.67  75         QTY65778.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 98.67  75         UCA88040.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 98.67  75         QWE43861.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 98.67  75         UDZ00411.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 96.00  75         QVT93783.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  3e-25 98.67  75         ULM20386.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 97.33  75         UBM64252.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 96.00  75         QTG62925.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 97.33  75         UGK67691.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 97.33  75         UBZ77943.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 97.33  75         UGO67349.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 97.33  75         UGW46455.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 93.33  75         QZP72015.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 94.67  75         UDH90898.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 98.67  75         UCV78015.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 97.33  75         UID47270.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 96.00  75         UCO20810.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 97.33  75         QTZ45250.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    99.0   99.0  100%  4e-25 93.33  75         QWE63962.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  4e-25 97.33  75         UHD88684.2       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  4e-25 93.33  75         UDH24700.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  4e-25 94.67  75         QYP60616.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 94.67  75         UDQ07953.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 96.00  75         UBK17881.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 93.33  75         UJU96343.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 94.67  75         UEH18098.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 94.67  75         UBX86908.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 94.67  75         UCP62225.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 93.33  75         UGC58004.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 98.67  75         UBD20026.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 98.67  75         QTU70607.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 96.00  75         UAW46524.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 96.00  75         UBK17508.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 93.33  75         UEF25909.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  5e-25 94.67  75         UDE24836.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  6e-25 98.67  75         UEW99444.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  6e-25 94.67  75         UDI06716.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  6e-25 96.00  75         UFJ37885.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  6e-25 90.67  75         UHI09768.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  6e-25 90.67  75         UBY19893.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  6e-25 98.67  75         QYJ51587.1       
+envelope protein [Severe acute respiratory syndrome coronaviru... Severe acute... NA              2697049    98.6   98.6  100%  6e-25 98.67  75         QUF55668.1       
+
+
+Alignments:
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBN78350.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBN91230.1 Length: 75 
+Range 1: 1 to 75
+
+Score:100 bits(248), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA +VFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLALMVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDO31082.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFL10537.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTAL+LCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALQLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCQ70288.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA VVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAVVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVG72534.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAY16800.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVV LLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVVLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEH33695.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLL LAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLVLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFA79862.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAF+VFLLVTLA LTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFMVFLLVTLATLTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEW09737.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEW22404.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFG54549.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFG54571.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFG54582.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA VVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAIVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAM71583.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVV LLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVILLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXM01537.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXX35449.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAB06882.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAU51033.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBB81661.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFV FLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVAFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWT73415.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYZ57362.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZI15874.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZI16745.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAW51457.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNS LLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSALLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRV13298.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSE25705.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTP08886.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTX79602.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA50981.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAF VFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFAVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSN98994.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXX92550.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UED88900.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEZ05431.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFC11346.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLL TLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLATLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBD44847.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFL F+VFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLVFMVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBF40625.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY81935.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAF+VFLLVTLAILT LRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFMVFLLVTLAILTVLRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: YP_009724392.1 Length: 75
+>RecName: Full=Envelope small membrane protein; Short=E; Short=sM protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: P0DTC4.1 Length: 75
+>envelope protein [Bat SARS-like coronavirus]
+Sequence ID: AVP78033.1 Length: 75
+>envelope protein [Bat coronavirus RaTG13]
+Sequence ID: QHR63302.1 Length: 75
+>envelope protein [Pangolin coronavirus]
+Sequence ID: QIA48616.1 Length: 75
+>E [synthetic construct] [synthetic construct]
+Sequence ID: QIG55859.1 Length: 75
+>envelope protein [Reverse genetics vector pCCI-4K-SARS-CoV-2-Wuhan-Hu-1]
+Sequence ID: QNT54847.1 Length: 75
+>envelope protein [Reverse genetics vector pCCI-4K-SARS-CoV-2-mCherry]
+Sequence ID: QNT54859.1 Length: 75
+>envelope protein [Reverse genetics vector pCCI-4K-SARS-CoV-2-NanoLuc]
+Sequence ID: QNT54871.1 Length: 75
+>envelope protein [Reverse genetics vector pCCI-4K-SARS-CoV-2-ZsGreen]
+Sequence ID: QQK33699.1 Length: 75
+>envelope protein [Bat coronavirus RacCS203]
+Sequence ID: QQM18866.1 Length: 75
+>envelope protein [Bat coronavirus RacCS224]
+Sequence ID: QQM18877.1 Length: 75
+>envelope protein [Bat coronavirus RacCS253]
+Sequence ID: QQM18888.1 Length: 75
+>envelope protein [Bat coronavirus RacCS264]
+Sequence ID: QQM18899.1 Length: 75
+>envelope protein [Bat coronavirus RacCS271]
+Sequence ID: QQM18910.1 Length: 75
+>envelope protein [Betacoronavirus sp. RpYN06]
+Sequence ID: QWN56254.1 Length: 75
+>envelope protein [Sarbecovirus sp.]
+Sequence ID: QZX47291.1 Length: 75
+>envelope protein [Bat coronavirus]
+Sequence ID: UAY13219.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:75/75(100%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBE72040.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVL FLAFVV LLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLFFLAFVVLLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXD38720.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXI94897.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLV LAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVLLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUD56218.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA VVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLASVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSN85403.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSN86943.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV82093.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTO75113.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTP74786.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLV LAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVALAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUE12501.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUJ12162.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHN41611.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNS+LLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSILLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS38927.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYQ56585.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAV68600.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBA39537.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBT52681.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.8 bits(247), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLL+TLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLITLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUX37696.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UIF57963.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UIF62345.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFL FVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLTFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWX21533.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXL09637.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDI51093.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEX07795.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHG65636.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTL ILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLVILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAG57581.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAI+TALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAIITALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCB79167.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFC28222.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFL+VTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLIVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTI97232.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTI99102.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAN99464.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAZ77738.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCO32499.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSV+LFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVILFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVD65749.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVT+AILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTIAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVJ16632.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVW81871.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXY24734.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYJ47554.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYJ54083.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLF+AFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFIAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRV13297.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAF VFLLVTLAIL+ALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFAVFLLVTLAILSALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXX36024.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLF+AFVVFLLV LAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFVAFVVFLLVILAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYP78764.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZX34868.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ28860.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ31456.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ31755.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTA  LCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTAXXLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBF75342.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDW57913.1 Length: 75
+>envelope protein, partial [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEL87547.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEM48214.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UET52998.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTAL  CAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALXXCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHO77330.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSV LFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVJLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFK01962.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVL FLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLJFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGK66263.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UJZ63352.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLF AFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFJAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUI87154.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUP07823.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUP15618.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUS69996.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUU24727.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVL+FLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLVFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15535.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15547.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15559.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15571.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15583.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSV+LFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVVLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULH76018.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALR+CAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRVCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZB53116.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBJ07850.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCI47460.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCV75149.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEV75399.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLA LTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAFLTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UIT30652.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVT AILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTQAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGZ64556.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHR09245.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLL TLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLFTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBK17114.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCV69011.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFB70157.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLL TLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLXTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCR04066.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDH88168.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UET08489.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFD44461.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGN65336.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNS LLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSXLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS16535.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS23720.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS32558.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO74714.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVU53712.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSV LFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVFLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGW44899.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA VV  LVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAXVVXXLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWU05278.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK80539.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBX93559.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDF80809.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFN90669.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFL VTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLXVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDO79162.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGN99290.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAI TALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAIXTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZC51652.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK57087.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVT AILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTXAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVY59608.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK05707.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK06801.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK19058.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK59000.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVF LVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFXLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEH85087.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEJ55048.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNS LLFLAFVVFLLVTLAILTA  LCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSXLLFLAFVVFLLVTLAILTAXXLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGO29564.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHN59716.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UKC92721.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLV+LAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVSLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAK13810.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAIL+ALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILSALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWT38337.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBJ08092.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY06502.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEZ39722.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLA LTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAXLTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZC49052.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHC04768.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAIL ALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILXALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBO39473.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY23736.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDB81043.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDB84188.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDH76675.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.4 bits(246), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVV  LVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVXXLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZW21381.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTAL LCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALPLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYC02439.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVV LLVTLAILT LRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVXLLVTLAILTXLRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS79416.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA38580.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUH81873.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWO60153.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGN27443.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTL ILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLXILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTY65778.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUV59681.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUX03797.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVH16468.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVJ55433.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFL+FVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLSFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCA88040.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDH77834.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEC76292.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEU72870.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFA24690.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVF LVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFSLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWE43861.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTL+ILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLSILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDZ00411.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEI26484.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:75/75(100%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILT+LRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTSLRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVT93783.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWW99078.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXI67370.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYP33844.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYP76818.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTA   CAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTAXXXCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULM20386.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:3e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVL FLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLRFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBM64252.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UJK56070.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFL  TLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLXXTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTG62925.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDA12593.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFV   LVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVXXXLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGK67691.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTA R CAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTAXRXCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBZ77943.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDB83309.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEP81581.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVF  VTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFXXVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGO67349.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSV LF AFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVXLFXAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGW46455.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSV  FLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVXXFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZP72015.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:70/75(93%), Positives:70/75(93%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA   FLLVTLAILTA  LCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAXXXFLLVTLAILTAXXLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDH90898.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLL L FVV  LVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLXLXFVVXXLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCV78015.1 Length: 75
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLV LAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVGLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UID47270.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UJZ62204.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAIL  LRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILXXLRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCO20810.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCP98635.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDH77941.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDH80050.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDO90043.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVV   VTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVXXXVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTZ45250.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXL06246.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZZ39731.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDI05693.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDO56243.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILT  RLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTXXRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWE63962.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZF20103.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZF37291.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZF38232.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZF49406.1 Length: 75 
+Range 1: 1 to 75
+
+Score:99.0 bits(245), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:70/75(93%), Positives:70/75(93%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFL     LLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLXXXXXLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHD88684.2 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFL FVVFLLVTLAILT LRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLDFVVFLLVTLAILTVLRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDH24700.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:70/75(93%), Positives:70/75(93%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA    L VTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAXXXXLXVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYP60616.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBE11113.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBF62264.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY06447.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDI33483.1 Length: 75 
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILT    CAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTXXXXCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDQ07953.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNS LLFLAFVVFLLVTLAILT   LCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSXLLFLAFVVFLLVTLAILTXXXLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBK17881.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVF   TLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFXXXTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UJU96343.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:70/75(93%), Positives:70/75(93%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVL     VVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLXXXXXVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEH18098.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNS    LAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSXXXXLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBX86908.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY23772.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDE19200.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDI07989.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGN31745.1 Length: 75 
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVV    TLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVXXXXTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCP62225.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNS L   AFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSXLXXXAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGC58004.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:70/75(93%), Positives:70/75(93%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLV  AILTA   CAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVXXAILTAXXXCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBD20026.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDN20103.1 Length: 75 
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVV LLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVCLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTU70607.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWF00361.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBF47931.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY13434.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCR00262.1 Length: 75 
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLA VVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLACVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAW46524.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBQ33608.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDF77954.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDP84536.1 Length: 75 
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVT   LTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTXXXLTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBK17508.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTL   TALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLXXXTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEF25909.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:70/75(93%), Positives:70/75(93%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLL     VFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLXXXXXVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDE24836.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLF    VFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFXXXXVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEW99444.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILT LRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTPLRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDI06716.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:71/75(94%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSV LFLAFVV   VTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVXLFLAFVVXXXVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFJ37885.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLV   ILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVXXXILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHI09768.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:68/75(91%), Positives:70/75(93%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLF A  +F L+ LAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFFASGLFFLLKLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBY19893.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:68/75(91%), Positives:68/75(90%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLL L      LVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLXLXXXXXXLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYJ51587.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZF37161.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZW98947.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZW98991.1 Length: 75
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAJ23028.1 Length: 75 
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLF AFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFPAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+>envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUF55668.1 Length: 75
+Range 1: 1 to 75
+
+Score:98.6 bits(244), Expect:6e-25, 
+Method:Compositional matrix adjust., 
+Identities:74/75(99%), Positives:74/75(98%), Gaps:0/75(0%)
+
+Query  1   MYSFVSEETGTLIVNSvllflafvvfllvtlailtalrlCAYCCNIVNVSLVKPSFYVYS  60
+           MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAI TALRLCAYCCNIVNVSLVKPSFYVYS
+Sbjct  1   MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAIPTALRLCAYCCNIVNVSLVKPSFYVYS  60
+
+Query  61  RVKNLNSSRVPDLLV  75
+           RVKNLNSSRVPDLLV
+Sbjct  61  RVKNLNSSRVPDLLV  75
+
+
+
+
+
+
+
+		
+
+

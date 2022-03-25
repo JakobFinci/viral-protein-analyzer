@@ -1,0 +1,3319 @@
+RID: 275JSCFW013	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1:  Query ID: lcl|Query_50624 Length: 222
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  2e-160 100.00 222        YP_009724393.1   
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QOI60349.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QRX47137.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QRW77293.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QOF16748.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QRX28077.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QUN75372.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QRX46158.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QOQ01737.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QNL10877.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QRW49026.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QRX21259.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QTS65844.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QTI94310.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QQV35322.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QTJ91672.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        UBG97710.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QQD88113.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QVY50055.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QQE72579.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QRV65674.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QJR92940.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QMU25206.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QOH27381.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QKR85732.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QQG80949.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QVG38620.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QTQ44843.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QSS85706.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QMW50903.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    452    452   100%  3e-160 99.55  222        QII87843.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        UHB05809.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        QJR91524.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        UDY76285.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        UGW28840.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        QTP22999.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        QXD42760.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        QOQ27546.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        QRK20818.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        QRK16252.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        UIT02798.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  4e-160 99.55  222        QRK18550.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        UHA86649.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QWQ00714.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QVI40318.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QUN72234.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QUF27701.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QUM25742.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QRX28625.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QYK38286.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QRV71062.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QOW17180.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QRQ69020.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QTG31587.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QQX34689.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QSO08934.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QNV70149.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QJX70745.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QTA94241.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QPD96854.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QVF56053.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QWB52244.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  5e-160 99.55  222        QQZ31451.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QTC59278.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QTG43810.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QVG46728.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QTK18905.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QOE87559.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QSN96221.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QRX07945.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        UGW30145.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QRX19824.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QSG76325.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QRF79522.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QWV61896.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QVN34057.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QVM67164.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QTN64908.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QVQ63800.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QTC72454.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QVN52091.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  6e-160 99.55  222        QKU30584.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QSV96183.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QZF22880.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QRV12051.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QVO86468.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QVK10821.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QTU36018.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QRX09606.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.10  222        UCL48894.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QVI41468.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QOQ03225.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QVJ84810.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QVD96787.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QSW61005.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QXP15536.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QNU10546.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  7e-160 99.55  222        QRX05290.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  8e-160 99.55  222        QTC62890.1       
+membrane glycoprotein [Severe acute respiratory syndrome...       Severe acute... NA              2697049    451    451   100%  8e-160 99.55  222        QVV34679.1       
+
+
+Alignments:
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: YP_009724393.1 Length: 222
+>RecName: Full=Membrane protein; Short=M; AltName: Full=E1 glycoprotein; AltName: Full=Matrix glycoprotein; AltName: Full=Membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: P0DTC5.1 Length: 222
+>M [synthetic construct] [synthetic construct]
+Sequence ID: QIG55860.1 Length: 222
+>membrane glycoprotein [Reverse genetics vector pCCI-4K-SARS-CoV-2-Wuhan-Hu-1]
+Sequence ID: QNT54848.1 Length: 222
+>membrane glycoprotein [Reverse genetics vector pCCI-4K-SARS-CoV-2-mCherry]
+Sequence ID: QNT54860.1 Length: 222
+>membrane glycoprotein [Reverse genetics vector pCCI-4K-SARS-CoV-2-NanoLuc]
+Sequence ID: QNT54872.1 Length: 222
+>membrane glycoprotein [Reverse genetics vector pCCI-4K-SARS-CoV-2-ZsGreen]
+Sequence ID: QQK33700.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1163), Expect:2e-160, 
+Method:Compositional matrix adjust., 
+Identities:222/222(100%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOI60349.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QPN00346.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQD87993.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQN92389.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQQ44792.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINW+TGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWVTGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX47137.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSN94023.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUC98099.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUO51488.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUS74048.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIA+AMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAVAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRW77293.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUJ35340.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXT16204.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYC63601.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEZ81352.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGT+TVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTVTVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOF16748.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOU87377.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV25145.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS30407.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTY90358.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDN+ALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNVALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX28077.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC56770.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTZ74880.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTZ81817.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUC81576.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYR+GNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRVGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUN75372.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVN24846.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVV32060.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWA62983.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWB70235.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGG+AIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGVAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX46158.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSN84204.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTW87156.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA90041.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA91082.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELV+GAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVVGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ01737.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUM37921.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWQ68107.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWQ68119.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWQ68131.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYF+ASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFVASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QNL10877.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QNL10925.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QNL11897.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSG76433.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV25936.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGT+LTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTVLTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRW49026.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX22961.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC21217.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC21265.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC62014.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCD+KDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDVKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX21259.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX27228.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX50748.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSO05752.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSO11246.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYI+KLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIVKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS65844.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTW76902.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA42565.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVN37159.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVU61227.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLR+AGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRVAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTI94310.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA70834.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA70846.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUD07835.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUD24483.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYR+NWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRVNWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQV35322.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQV35358.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRK15340.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTW30603.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLV+GFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVVGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTJ91672.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTZ78262.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA27068.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUH96328.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUH98792.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKE+TVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEVTVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBG97710.1 Length: 222
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETN+LL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNVLL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQD88113.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQX33957.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX21415.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSE32357.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV88030.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAV+LRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVVLRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVY50055.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZJ78357.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKL+FLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLVFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQE72579.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQG67113.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQG67136.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQG67160.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQG67172.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLY+IKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYVIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRV65674.1 Length: 222
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLL+QWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLZQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QJR92940.1 Length: 222
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSF+PETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFBPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QMU25206.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QMU25218.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QNI25299.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRG23604.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSJ42663.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNL+IGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLIIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOH27381.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOH27417.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRG51322.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRV12519.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRW30140.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESEL+IGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELIIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKR85732.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKR86440.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKR86548.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKR86896.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBH02369.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEIT+ATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITIATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQG80949.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX20649.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTQ63303.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTQ63507.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUL62224.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWP+
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPI  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVG38620.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXE75385.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALL+Q
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLIQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTQ44843.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTQ48081.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXL07289.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXO27096.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXO27108.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACL+GLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLIGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSS85706.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTF84494.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTF85454.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTJ80124.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS40392.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQR+AGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRIAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QMW50903.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QNL11825.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QPF56105.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTB07075.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC27641.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTIT+EELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITIEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QII87843.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QIS60705.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QIU81264.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QIU81588.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QIZ14546.1 Length: 222 
+Range 1: 1 to 222
+
+Score:452 bits(1162), Expect:3e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAA+YRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAIYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHB05809.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:221/222(99%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMW SYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWJSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QJR91524.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:221/222(99%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESE VIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESEJVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDY76285.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDY76307.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:221/222(99%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLV GFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVJGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGW28840.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:221/222(99%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYR NWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRJNWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTP22999.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTP23238.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UKC29723.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UKC30306.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:221/222(99%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKL EQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLJEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXD42760.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:221/222(99%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWIC LQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICJLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ27546.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSS84950.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTJ75909.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS38428.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTS67644.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASF+LFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFKLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRK20818.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTG42124.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTX44466.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVX53422.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWK67701.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYAN+NRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANKNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRK16252.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRM14451.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSS81268.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSU73293.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUO58007.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRN+FLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNKFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UIT02798.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRY+IGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYKIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRK18550.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSF11889.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC95439.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVN51803.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYV25587.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:4e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVY+INWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYKINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHA86649.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIK+LPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKBLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWQ00714.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAG+SGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGBSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVI40318.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MA+SNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MABSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUN72234.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUX33877.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVW44800.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK14473.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZK53135.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTI+TRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTIMTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUF27701.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVG+MWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGMMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUM25742.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUM46597.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUM48025.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKD+PKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDMPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX28625.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTO28697.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVN40273.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVU64525.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACF+LAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFMLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYK38286.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1161), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            N+PLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NMPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRV71062.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRV71086.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSE12593.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSI74981.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSN79522.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFV+AAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVIAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOW17180.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOW96134.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QPN00490.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRG23484.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRO05068.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKL+EQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLIEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRQ69020.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTW46195.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTW67311.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTX62427.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTX83848.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWN+VIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNIVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTG31587.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVI17908.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO19128.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO70182.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWA65082.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKK+LEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKILEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQX34689.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTT28983.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUH43187.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO78857.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWQ80986.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVP+HGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPIHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSO08934.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVJ31570.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXE75026.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UAZ75841.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGF+FLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFIFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QNV70149.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOC62386.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVK75365.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULF10711.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGH+RIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHIRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QJX70745.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX46373.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUP43037.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESE+VIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESEIVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTA94241.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC67054.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTJ73569.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTX60106.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUC90299.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMAC+VGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACIVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QPD96854.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UDO32292.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMW+SYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWISYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVF56053.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLF+TWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFITWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWB52244.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVI+RGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVIIRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQZ31451.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQZ32099.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQZ33106.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSE12605.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSE30282.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:5e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNIL+
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILI  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC59278.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTY58410.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUX54115.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVD88354.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLY+IKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYMIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTG43810.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIA+AMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAMAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVG46728.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYI+KLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIMKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTK18905.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLV+GFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVMGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOE87559.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QQS77675.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRJ36126.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYN85588.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QYZ52584.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCD+KDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDMKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSN96221.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSW02391.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUG26425.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWA18738.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWA20240.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYR+NWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRMNWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX07945.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSY39451.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRL+ARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLYARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGW30145.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWS+NPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSYNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX19824.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTT57849.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MAD+NGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADANGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSG76325.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC73198.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC76942.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTP09577.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUP31540.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDH+SSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHASSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRF79522.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVY50258.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWO73168.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXE56849.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXJ70471.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVAT+RTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATARTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWV61896.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEP91661.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UFQ09054.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTL+YYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLAYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVN34057.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO25877.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGA+QRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGAAQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVM67164.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIA+FRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIAAFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTN64908.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXY68867.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULF06437.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULF06845.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: ULF07120.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEEL+KLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELRKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVQ63800.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWQ60838.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UHM14242.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYY+
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYR  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC72454.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUE35783.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUF52601.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUM96938.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXJ01019.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLP+EITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPREITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVN52091.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO41834.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO43275.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXI91581.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCL10224.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDI+DLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIRDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKU30584.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKV35906.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKV39027.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKV39398.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QKV39434.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:6e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELK+LLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKRLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSV96183.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTD26306.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTT55665.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUH33356.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUN75743.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDI+DLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIQDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QZF22880.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBS01445.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELK+LLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKQLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRV12051.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVP01831.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QWW60043.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATS+TLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSQTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVO86468.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MAD+NGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADTNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVK10821.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSS+DNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSTDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTU36018.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUO75977.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXT53940.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXY01048.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXY06144.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAY+RYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYTRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX09606.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTG26139.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTX62175.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUA70354.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QUD19178.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWL+YFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLTYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UCL48894.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1160), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:220/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLY+IKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYVIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINW+TGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWVTGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVI41468.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBN71493.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UBO22847.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGO27895.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINW+TGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWLTGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ03225.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ03333.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ03357.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ03429.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QOQ03489.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKE+TVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKELTVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVJ84810.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVR39841.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UGX60119.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYR+NWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRLNWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVD96787.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVV56582.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYF+ASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFLASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSW61005.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKL+FLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLLFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15536.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15548.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15584.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15596.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QXP15608.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLY+IKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYLIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QNU10546.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QSE25046.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTM29723.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTM30251.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTM30419.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLV+GFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVLGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QRX05290.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: UEY21274.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:7e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGT+LTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTLLTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTC62890.1 Length: 222
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QTE09285.1 Length: 222 
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:8e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVE+LKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEQLKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+>membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Sequence ID: QVV34679.1 Length: 222
+Range 1: 1 to 222
+
+Score:451 bits(1159), Expect:8e-160, 
+Method:Compositional matrix adjust., 
+Identities:221/222(99%), Positives:222/222(100%), Gaps:0/222(0%)
+
+Query  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+            MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV
+Sbjct  1    MADSNGTITVEELKKLLEQWNLVIGFLFLTWICLLQFAYANRNRFLYIIKLIFLWLLWPV  60
+
+Query  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+            TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL
+Sbjct  61   TLACFVLAAVYRINWITGGIAIAMACLVGLMWLSYFIASFRLFARTRSMWSFNPETNILL  120
+
+Query  121  NVPLHGTILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+            NVPLHG+ILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK
+Sbjct  121  NVPLHGSILTRPLLESELVIGAVILRGHLRIAGHHLGRCDIKDLPKEITVATSRTLSYYK  180
+
+Query  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+            LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ
+Sbjct  181  LGASQRVAGDSGFAAYSRYRIGNYKLNTDHSSSSDNIALLVQ  222
+
+
+
+
+
+
+
+		
+
+
